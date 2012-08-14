@@ -4,6 +4,8 @@ CakePHP-Mailchimp-Plugin
  CakePHP Mailchimp Plugin to use the API in a CakePHP way.
 
 <b>Getting Started</b>
+
+
 1) Open your file bootstrap.php
 2) Add the following: 
 
